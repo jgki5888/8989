@@ -3,51 +3,52 @@
 - taxonomy: 常用推荐
   icon: fa-star
   links: 
-   - title: TRX能量兑换机器人
-      logo: images/logos/bochang.png
-      url: https://t.me/tpnengliang_bot
-      description: 全完最便宜的TRX兑换能量机器人
-    - title: 免费记账机器人
-      logo:  images/logos/jiqiren.png
-      url: https://t.me/TPJizhang_bot
-      description: 免费的TG飞机记账机器人，详细图文教程
-    - title: 免费飞机代理iP
+   - title: YouTube
+      logo: 
+      url: https://www.youtube.com/channel/UCgV1t5fHFvAVPyprEWvuIzg/
+      description: 一个专注于软件安装，科学上网教学的频道！
+    - title: 资源博客
+      qrcode: images/qrcodes/bk.png
+      logo:  images/logos/kjgxa999f-kjgx1fr3l-001.ico
+      url: https://kjgx668.blogspot.com/
+      description: 资源分享，详细图文教程。
+    - title: 环球巴士
       qrcode: 
-      logo: images/logos/VPN.png
-      url: https://t.me/tpchuhai/4
-      description: 免费的VPN可以永远TG飞机翻墙
+      logo: images/logos/HQBS.png
+      url: https://universalbus.cn?s=gB8CJKmJdd
+      description: 流媒体影音账号合租平
     - title: 虚拟信用卡
       url: https://gpt.fomepay.com/#/pages/login/index?d=UE9260
       description: 支付宝、微信充值，海外消费。
     - title: 美国虚拟卡
-      qrcode: images/qrcodes/
-      logo:images/logos/xinyongka.png
+      qrcode: images/qrcodes/usdt.png
+      logo:
       url: https://www.asinx.io/#/pages/member/register/register?code=9h9oxmkt/
       description: usdt套现，国内拼多多消费，支付宝消费
-    - title: IOS (苹果) ID 飞机号/谷歌邮箱
+    - title: IOS (苹果) ID 礼品卡/兑换码
       logo:  images/logos/5eac6d69dc12980944f98.jpg
-      url: https://t.me/tpzhongwen/99
-      description: shadowrocket 小火箭  | ChatGPT plus 应有尽有！
-    - title: TP出海频道
+      url: https://app.xintaifree.com?from=5431/
+      description: shadowrocket 小火箭 | quantumult x 圈x | 礼品卡/兑换码 | ChatGPT plus 应有尽有！⏰客服在线时间08:00-23:00
+    - title: Telegram
       logo: 
-      url: https://t.me/tpchuhai
-      description: 共享资源频道
+      url: https://t.me/kjgxZY/
+      description: 科技共享资源频道
     - title: Telegram群组
-      url: https://t.me/tpchq
-      description: 沟通交流，资源分享，TRX能量兑换
-    - title: 免费远程桌面软件
-      logo:  images/logos/yuan.png
-      url: https://t.me/tpzhongwen/93?single
-      description: 远程控制电脑，手机控制电脑、电脑控制手机，电脑控制电脑
-    - title: 免费网络云盘
-      url: https://yp.tpchuhai.com
-      description: 每个用户都可以免费使用1.5G储存
-    - title: 币安使用指南
-      url: https://t.me/tpzhongwen/74?single
-      description: 币安全球最大交易所
-    - title: 欧易使用指南
-      url: https://t.me/tpzhongwen/80
-      description: 欧易中国人使用最多的交易所
+      url: https://t.me/+qf_DtRZ90ys2ZDBl/
+      description: 沟通交流，资源分享
+    - title: 接码平台
+      logo:  
+      url: https://sms-activate.org/?ref=4312619/
+      description: 购买各国电话号码，用于在社交网络、聊天工具和其他服务中注册。
+    - title: Base64编码解码
+      url: https://www.matools.com/base64/
+      description: 将utf-8能表示的所有字符进行Base64编码加密解密
+    - title: OneDrive直链
+      url: https://onedrive.gimhoy.com/
+      description: OneDrive直链获取工具
+    - title: UUID生成
+      url: https://1024tools.com/uuid/
+      description: UUID在线生成
     
 
 - taxonomy: 社区咨询
